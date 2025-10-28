@@ -32,4 +32,14 @@ Receives `isDisabled` as a prop and renders:
 - ♻️ Reusable layout and button logic
 
 ## Example Output
+Styled Button Practical Activity 
+Styled Button 
+Toggle Disable 
+Status: Enabled
+
+## How to Run
+
+```bash
+npm install
+npm start
 
